@@ -1,4 +1,3 @@
-from unittest import result
 from flask import Flask, request
 import json
 import psycopg2
